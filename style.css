@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.btn1, .btn2, .btn3 {
+    padding: 10px 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#fa-in {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.app {
+    width: 400px;
+    height: 200px;
+    border: 1px solid red;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.colo {
+    font-size: 25px;
+    font-weight: bold;
+}
